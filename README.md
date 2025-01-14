@@ -1,12 +1,8 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Deep Learning Setup Guide</title>
-</head>
 <body>
-    <h1>Deep Learning Setup Guide for MacBook Air M1</h1>
+    <h1><b>Deep Learning Setup Guide</b></h1>
+    <h2>Deep Learning Setup Guide for MacBook Air M1</h2>
     <p>This guide outlines the steps to set up a deep learning environment on a MacBook Air M1 from scratch.</p>
     <h2>Step 1: Clean Up Existing Installations</h2>
     <p>Remove any existing Python installations and virtual environments:</p>
