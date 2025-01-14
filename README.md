@@ -73,6 +73,49 @@ jupyter lab
     <pre><code>pip freeze > requirements.txt
 pip install -r requirements.txt
 </code></pre>
+<h2>Step 8: JupyterLab Shortcuts</h2>
+    <h3>Command Mode Shortcuts</h3>
+    <ul>
+        <li><code>A</code>: Insert a new cell above</li>
+        <li><code>B</code>: Insert a new cell below</li>
+        <li><code>D, D</code>: Delete selected cell</li>
+        <li><code>Z</code>: Undo cell deletion</li>
+        <li><code>X</code>: Cut selected cell</li>
+        <li><code>C</code>: Copy selected cell</li>
+        <li><code>V</code>: Paste cell below</li>
+        <li><code>Shift + V</code>: Paste cell above</li>
+        <li><code>M</code>: Convert cell to Markdown</li>
+        <li><code>Y</code>: Convert cell to code</li>
+        <li><code>Shift + Enter</code>: Run cell and move to the next</li>
+    </ul>
+    <h3>Edit Mode Shortcuts</h3>
+    <ul>
+        <li><code>Ctrl + A</code>: Select all</li>
+        <li><code>Ctrl + Z</code>: Undo</li>
+        <li><code>Ctrl + Shift + Z</code>: Redo</li>
+        <li><code>Ctrl + /</code>: Toggle comment for selected lines</li>
+        <li><code>Tab</code>: Indent</li>
+        <li><code>Shift + Tab</code>: Dedent</li>
+        <li><code>Ctrl + Space</code>: Trigger code completion</li>
+        <li><code>Ctrl + Shift + -</code>: Split the current cell at the cursor</li>
+    </ul>
+    <h3>General Shortcuts</h3>
+    <ul>
+        <li><code>Shift + Esc</code>: Exit edit mode and focus on the cell</li>
+        <li><code>Ctrl + S</code>: Save notebook</li>
+        <li><code>0, 0</code>: Restart kernel</li>
+        <li><code>F</code>: Open the command palette</li>
+    </ul>
+    <h2>Step 9: Best Practices</h2>
+    <p>Always activate your virtual environment before working on projects:</p>
+    <pre><code>source ~/deep_learning_env/bin/activate
+</code></pre>
+    <p>Use a <code>requirements.txt</code> file for dependency management:</p>
+    <pre><code>pip freeze > requirements.txt
+pip install -r requirements.txt
+</code></pre>
+    <h2>Conclusion</h2>
+    <p>You are now ready to start working on deep learning projects on your MacBook Air M1!</p>
     <h2>Conclusion</h2>
     <p>You are now ready to start working on deep learning projects on your MacBook Air M1!</p>
 </body>
